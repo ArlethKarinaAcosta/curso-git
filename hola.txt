@@ -1,0 +1,23 @@
+commit c3002db3bd439c69f867ecc0de6be2a8f91dc83c
+Author: ArlethKarinaAcosta <43972814+ArlethKarinaAcosta@users.noreply.github.com>
+Date:   Mon Sep 2 09:42:18 2019 -0600
+
+    Create README.md
+
+commit ae683ec4629e7e4f78a962663874650ac94218a7
+Author: ArlethKarinaAcosta <arkaacostato@ittepic.edu.mx>
+Date:   Mon Sep 2 09:02:11 2019 -0600
+
+    Se ha agregado un git ignore
+
+commit 3f8ce48caedc8ae7d95f2ecf448a5a2f60563d1d
+Author: ArlethKarinaAcosta <arkaacostato@ittepic.edu.mx>
+Date:   Thu Aug 29 09:24:12 2019 -0600
+
+    Hola
+
+commit 2058b04ee2e8c4286907458d365529d4bd678277
+Author: ArlethKarinaAcosta <arkaacostato@ittepic.edu.mx>
+Date:   Wed Aug 28 10:39:53 2019 -0600
+
+    prueba Infra Web
